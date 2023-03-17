@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.exe.config
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.exe
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.pdb
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.exe
+C:\Users\hp\source\repos\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.pdb
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.exe.config
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.exe
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\bin\Debug\KalkulatorCh2.pdb
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.AssemblyReference.cache
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.exe
+C:\Users\hp\source\kalkulator-challenge\KalkulatorCh2\KalkulatorCh2\obj\Debug\KalkulatorCh2.pdb
