@@ -41,3 +41,13 @@ Untuk __keluar__ dari kalkulator ini user langsung menekan tombol silang yang te
 | - | Pengurangan | 
 | * | Perkalian | 
 | : | Pembagian | 
+
+
+## ver1 <br>
+
+![contoh](challenge2-ver1.gif)
+
+
+## ver2 <br>
+
+![contoh](challenge2-ver2.gif)
